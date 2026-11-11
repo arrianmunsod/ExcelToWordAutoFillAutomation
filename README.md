@@ -323,3 +323,17 @@ Test the packaged application on the target Windows system before distributing i
 ## License
 
 This project is provided for educational and personal use. You may modify and extend the source code to suit your requirements.
+
+## Development Note 
+
+AI-assisted development. Code reviewed and tested by the author.
+<br>
+*
+
+<p align="center">
+  <a href="https://github.com/arrianmunsod">
+    <strong>← BACK TO ARRIAN'S GITHUB PROFILE</strong>
+  </a>
+  <br>
+  <sub>Explore more projects, scripts, and technical documentation.</sub>
+</p>
